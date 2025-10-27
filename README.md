@@ -52,15 +52,6 @@ This script demonstrates command-line usage of the saved diabetes prediction mod
 python predictive-system.py
 
 
-## File Structure
-
-.
-├── diabetes_prediction_web_app.py # Streamlit web app script
-├── predictive-system.py # Command-line prediction script
-├── trained_model.sav # Saved machine learning model file
-└── README.md # Project documentation
-
-
 ## Future Enhancements
 
 - Input validation and error handling
