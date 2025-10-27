@@ -1,5 +1,5 @@
 # Diabetes Prediction Web Application
-
+![SS1](https://github.com/adityashelke04/Deploying_Machine_Learning_Model/blob/adcf00a9c2faeef55264c8c4fd97b08a630778d1/screenshot/Screenshot%202025-10-27%20203211.png)
 A web application built with Streamlit that predicts whether a person is diabetic or not based on input health parameters, using a pre-trained machine learning model.
 
 ## Project Overview
